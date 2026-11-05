@@ -2,6 +2,10 @@
 
 🎓 Food Science and Technology Graduate
 
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Atirah Azzara' Zakaria - Food Science and Technology Graduate"/>
+</p>
+
 ## About Me
 I am a fresh graduate with a background in Food Science and Technology, interested in quality assurance, quality control, and product development in food and beverages industry.
 
