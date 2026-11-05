@@ -72,7 +72,6 @@ I have practical experience in food laboratory testing, product evaluation, food
 - Conducted sensory evaluation to assess consumer acceptance.
 - Identified the optimum formulation based on physicochemical and sensory results.
 
-**Key Areas:** , ,  and .
 **Key Skills**
 
 
