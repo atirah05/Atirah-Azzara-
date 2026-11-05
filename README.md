@@ -67,7 +67,17 @@ I have practical experience in food laboratory testing, product evaluation, food
 - Conducted sensory evaluation to assess consumer acceptance.
 - Identified the optimum formulation based on physicochemical and sensory results.
 
-**Key Areas:** Food Product Development, Food Analysis, Sensory Evaluation and By-product Utilisation.
+**Key Areas:** , ,  and .
+**Key Skills**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Food Product Development-4B79A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Food Analysis-6A994E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensory Evaluation-8A5CA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Formulation-DDA15E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/By-product Utilisation-588157?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fibre Research-457B9D?style=for-the-badge" />
+</p>
 
 ### 2. Butterfly Pea SereniTeh – Eye Health Beverage
 **Research & Development Project | Food Innovation & Product Development (FIPD)**
@@ -83,9 +93,7 @@ I have practical experience in food laboratory testing, product evaluation, food
 - Explored botanical ingredient combinations to develop an innovative and appealing beverage.
 - Conducted research and experimentation on suitable packaging options for an instant beverage product.
 
-**Key Areas:** Functional Beverage Development, Ingredient Research, Antioxidants, Product Innovation and Packaging Development.
-
-## Key Skills
+**Key Skills**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Functional_Beverage_Development-4B79A1?style=for-the-badge" />
@@ -96,6 +104,7 @@ I have practical experience in food laboratory testing, product evaluation, food
   <img src="https://img.shields.io/badge/Pouch_Packaging-457B9D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Instant_Beverage_Development-BC6C25?style=for-the-badge" />
 </p>
+
 
 
 ## Connect With Me
