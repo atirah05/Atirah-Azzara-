@@ -3,7 +3,7 @@
 🎓 Food Science and Technology Graduate
 
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Atirah Azzara' Zakaria - Food Science and Technology Graduate"/>
+  <img src="./banner.png" width="100%" alt="Atirah Azzara' Zakaria - Food Science and Technology Graduate"/>
 </p>
 
 ## About Me
