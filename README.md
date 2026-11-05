@@ -79,7 +79,7 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 **Key Areas:** Functional Beverage Development, Ingredient Research, Antioxidants, Product Innovation and Packaging Development.
 
-## Key Skills & Competencies
+## Key Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Functional_Beverage_Development-4B79A1?style=for-the-badge" />
