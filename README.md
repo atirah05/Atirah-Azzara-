@@ -28,9 +28,10 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 ## Connect With Me
 <p>
-  <a href="www.linkedin.com/in/atirahazzara05">
+  <a href="www.linkedin.com/in/atirahazzara05/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
   <a href="mailto:atirahzakaria05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
