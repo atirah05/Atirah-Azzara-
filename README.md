@@ -65,7 +65,7 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 ### 2. Butterfly Pea SereniTeh – Eye Health Beverage
 **Research & Development Project | Food Innovation & Product Development (FIPD)**
-
+![Butterfly Pea SereniTeh](./Butterfly Pea Tea Product Still Life.png)
 - Developed a functional beverage concept focusing on eye health using butterfly pea flower as a key botanical ingredient.
 - Researched antioxidant-rich ingredients, including vitamin E and anthocyanin sources, for potential eye health benefits.
 - Explored botanical ingredient combinations to develop an innovative and appealing beverage.
