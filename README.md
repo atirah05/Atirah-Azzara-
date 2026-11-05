@@ -41,6 +41,17 @@ I have practical experience in food laboratory testing, product evaluation, food
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+## Digital Tools & Software
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Word-D8BFA5?style=for-the-badge&logo=microsoftword&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-D8BFA5?style=for-the-badge&logo=microsoftexcel&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-D8BFA5?style=for-the-badge&logo=microsoftpowerpoint&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Canva-D8BFA5?style=for-the-badge&logo=canva&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/CapCut-D8BFA5?style=for-the-badge&logo=capcut&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Photoshop-D8BFA5?style=for-the-badge&logo=adobephotoshop&logoColor=65432F" />
+</p>
+
 ## Certifications & Training
 - Food Handler Training Course
 - Goods Manufacturing Practices Awarenenss Training
