@@ -49,6 +49,31 @@ I have practical experience in food laboratory testing, product evaluation, food
 - Gained exposure to food regulatory compliance.
 - Participated in product evaluation and laboratory activities.
 
+
+## Academic Projects
+
+### 1. Physicochemical and Sensorial Properties of Cempedak (*Artocarpus integer*) Seeds in Chocolate Pudding
+**Final Year Project | Bachelor of Food Science and Technology**
+
+- Developed chocolate pudding formulations using cempedak seed flour as a partial substitute for cornstarch.
+- Conducted physicochemical analyses, including moisture, ash, protein, fat, fibre and starch determination.
+- Evaluated viscosity and colour properties of the formulated products.
+- Conducted sensory evaluation to assess consumer acceptance.
+- Identified the optimum formulation based on physicochemical and sensory results.
+
+**Key Areas:** Food Product Development, Food Analysis, Sensory Evaluation and By-product Utilisation.
+
+### 2. Butterfly Pea SereniTeh – Eye Health Beverage
+**Research & Development Project | Food Innovation & Product Development (FIPD)**
+
+- Developed a functional beverage concept focusing on eye health using butterfly pea flower as a key botanical ingredient.
+- Researched antioxidant-rich ingredients, including vitamin E and anthocyanin sources, for potential eye health benefits.
+- Explored botanical ingredient combinations to develop an innovative and appealing beverage.
+- Conducted research and experimentation on suitable packaging options for an instant beverage product.
+
+**Key Areas:** Functional Beverage Development, Ingredient Research, Antioxidants, Product Innovation and Packaging Development.
+
+
 ## Connect With Me
 <a href="https://www.linkedin.com/in/atirahazzara05/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
