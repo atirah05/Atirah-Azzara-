@@ -54,6 +54,12 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 ### 1. Physicochemical and Sensorial Properties of Cempedak (*Artocarpus integer*) Seeds in Chocolate Pudding
 **Final Year Project | Bachelor of Food Science and Technology**
+<p align="center">
+  <img src="./Glossy Chocolate Mousse in Glass Mug.png" width="40%" />
+</p>
+<p align="center">
+  <i>Chocolate pudding fortified with cempedak seed flour, showcasing food by-product utilisation and innovative product development.</i>
+</p>
 
 - Developed chocolate pudding formulations using cempedak seed flour as a partial substitute for cornstarch.
 - Conducted physicochemical analyses, including moisture, ash, protein, fat, fibre and starch determination.
