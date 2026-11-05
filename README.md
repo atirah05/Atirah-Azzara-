@@ -60,6 +60,9 @@ I have practical experience in food laboratory testing, product evaluation, food
 <h2 align="center">Experience</h2>
 
 ### R&D Intern – Yeo Hiap Seng (Malaysia) Berhad
+<p align="center">
+  <img src="./yeos.jpg" width="40%" />
+</p>
 
 - Conducted physicochemical and sensory evaluations.
 - Performed product stability monitoring.
