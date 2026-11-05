@@ -41,16 +41,6 @@ I have practical experience in food laboratory testing, product evaluation, food
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-## Digital Tools & Software
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Word-D8BFA5?style=for-the-badge&logo=microsoftword&logoColor=65432F" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-D8BFA5?style=for-the-badge&logo=microsoftexcel&logoColor=65432F" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-D8BFA5?style=for-the-badge&logo=microsoftpowerpoint&logoColor=65432F" />
-  <img src="https://img.shields.io/badge/Canva-D8BFA5?style=for-the-badge&logo=canva&logoColor=65432F" />
-  <img src="https://img.shields.io/badge/CapCut-D8BFA5?style=for-the-badge&logo=capcut&logoColor=65432F" />
-  <img src="https://img.shields.io/badge/Photoshop-D8BFA5?style=for-the-badge&logo=adobephotoshop&logoColor=65432F" />
-</p>
 
 ## Certifications & Training
 - Food Handler Training Course
@@ -85,14 +75,16 @@ I have practical experience in food laboratory testing, product evaluation, food
 **Key Areas:** , ,  and .
 **Key Skills**
 
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Food Product Development-4B79A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Food Analysis-6A994E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sensory Evaluation-8A5CA6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Formulation-DDA15E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/By-product Utilisation-588157?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fibre Research-457B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Food_Product_Development-D8BFA5?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Food_Analysis-C9A88D?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Sensory_Evaluation-E8D8C5?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Product_Formulation-A98467?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/By--product_Utilisation-D6C2AA?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Fibre_Research-BB9B7A?style=for-the-badge&logoColor=FFFFFF" />
 </p>
+
 
 ### 2. Butterfly Pea SereniTeh – Eye Health Beverage
 **Research & Development Project | Food Innovation & Product Development (FIPD)**
@@ -110,14 +102,15 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 **Key Skills**
 
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Functional_Beverage_Development-4B79A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ingredient_Research-6A994E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Antioxidant_Research-8A5CA6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Formulation-DDA15E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Botanical_Ingredients-588157?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pouch_Packaging-457B9D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Instant_Beverage_Development-BC6C25?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Functional_Beverage_Development-D8BFA5?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Ingredient_Research-C9A88D?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Antioxidant_Research-E8D8C5?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Product_Formulation-A98467?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Botanical_Ingredients-D6C2AA?style=for-the-badge&logoColor=65432F" />
+  <img src="https://img.shields.io/badge/Pouch_Packaging-BB9B7A?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Instant_Beverage_Development-D8BFA5?style=for-the-badge&logoColor=65432F" />
 </p>
 
 
