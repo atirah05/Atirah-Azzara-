@@ -79,6 +79,18 @@ I have practical experience in food laboratory testing, product evaluation, food
 
 **Key Areas:** Functional Beverage Development, Ingredient Research, Antioxidants, Product Innovation and Packaging Development.
 
+## Key Skills & Competencies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Functional_Beverage_Development-4B79A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ingredient_Research-6A994E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antioxidant_Research-8A5CA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Formulation-DDA15E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Botanical_Ingredients-588157?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pouch_Packaging-457B9D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Instant_Beverage_Development-BC6C25?style=for-the-badge" />
+</p>
+
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/atirahazzara05/" target="_blank">
